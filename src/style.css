@@ -159,13 +159,13 @@ html {
 	
 	padding: 35px 15px;
     flex-shrink: 0;
-    stroke-width: 1px;
+    stroke-width: 1.5px;
     stroke: #959595;
     position: absolute;
 }
 
 .chat {
-	padding-left: 39px;
+	padding-left: 33px;
     padding-right: 20px;
     display: grid;
     grid-template-columns: 56px 2fr 1fr;
@@ -177,23 +177,42 @@ html {
     font-size: 11px;
 }
 
+
 #message-input{
+	
+	font-family: 'Inter', sans-serif;
+	padding-top: 10px;
+	padding-left: 10px;
     height: 30px;
-	/* margin-left: 40px; */
+	width: 250px;
+	margin-left: 17px;
 	font-size: 16px;
-	border: 1px solid rgb(255, 99, 136);
+	/* background-color: rgb(255, 99, 136); */
+	border: 1.5px solid rgb(255, 99, 136);
 	border-radius: 100px;
+	
 }
 
-/* .message {
-    
-} */
+#send-button{
+	width: 50px; /* Imposta la larghezza desiderata */
+	height: 50px; /* Imposta l'altezza desiderata */
+	border-radius: 50%; /* Imposta il bordo circolare */
+	background-color: blue;
+	border: none;
+}
 
 .User {
     font-weight: bold;
 }
 .Chatbot {
     color: gray;
+}
+
+::placeholder{
+	font-family: 'Inter', sans-serif;
+	/* padding-top: 5px;
+	padding-left: 5px; */
+	box-sizing: border-box;
 }
 /* #testo {
 	width: 200px;
