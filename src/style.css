@@ -150,11 +150,13 @@ html {
 	font-weight: 300;
 	color: rgb(190, 190, 190);
 	float: right;
-	padding-right: 8px;
+	/* padding-right: 8px; */
+	margin-left: 10px;
 
 }
 
 .indietro {
+	
 	padding: 35px 15px;
     flex-shrink: 0;
     stroke-width: 1px;
