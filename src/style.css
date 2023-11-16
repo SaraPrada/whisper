@@ -172,7 +172,30 @@ html {
     align-items: center;
 }
 
-#testo {
+
+#history {
+    font-size: 11px;
+}
+
+#message-input{
+    height: 30px;
+	/* margin-left: 40px; */
+	font-size: 16px;
+	border: 1px solid rgb(255, 99, 136);
+	border-radius: 100px;
+}
+
+/* .message {
+    
+} */
+
+.User {
+    font-weight: bold;
+}
+.Chatbot {
+    color: gray;
+}
+/* #testo {
 	width: 200px;
 	padding: 8px; 
 	margin-left: 40px;
@@ -180,14 +203,14 @@ html {
 	border: 1px solid rgb(255, 99, 136);
 	border-radius: 100px;
 	
-}
+} */
 
-#invia {
+/* #invia {
 width: 55px;
 height: 33px;
 flex-shrink: 0;
 margin-left: 280px;
 
 
-}
+} */
 
