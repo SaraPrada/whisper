@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CC - Sara Prada - WHISPER</title>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="CC – SUPSI 2023">
+    <meta name="keywords" content="Creative, Coding, SUPSI, 2023">
+    <meta name="web_author" content="Sara Prada">
+    <meta name="copyright" content="Sara Prada">
+    <link href="src/style.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section id="container">
+        <img id="sfondo" src="src/img/sfondo_2.svg"></img>
+        <div id="rettangolo">
+            <a href="index.html">
+                <div class="indietro">
+                    <svg width="10" height="19" viewBox="0 0 10 19" fill="none">
+                        <path d="M9.5 1L1 9.5L9.5 18" stroke="#959595" />
+                    </svg>
+                </div>
+                </a>
+            <div class="messaggio">
+                <div class="chat">
+                    <div class="colonna-immagine">
+                        <img id="giulia" src="src/img/giulia.jpeg"></img>
+                    </div>
+                    <div class="colonna-nome">
+                        <p class="nome">Giulia⭐️</p>
+                        <p class="lorem">online</p>
+                    </div>
+                </div>
+            </div>
+            <div class="colonna-orario" style="float: left; margin-left: 43%;">
+                <p class="ora" style="font-size: 14px;">Today</p>
+            </div>
+            <form action="/submit_page" method="post">
+                <!-- <label for="testo">Inserisci del testo:</label><br> -->
+                <input type="text" id="testo" name="testo"><br>
+                <input type="submit" id="invia" value="Invia">
+              </form>
+        </div>
+    </section>
+</body>
+<script src="src/app.js"></script>
+
+</html>

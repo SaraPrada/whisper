@@ -1,0 +1,45 @@
+<svg width="360" height="800" viewBox="0 0 360 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="800" fill="#F5F5F5"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="360" height="800" fill="white"/>
+<rect width="360" height="800" fill="#FF6388"/>
+<text transform="translate(-12 55.351) rotate(-45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" letter-spacing="0em"><tspan x="0" y="65.1">&#x1f92b;</tspan></text>
+<text transform="translate(359.69) rotate(60)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="80" letter-spacing="0em"><tspan x="0" y="74.4">&#x1f910;</tspan></text>
+<text transform="translate(218.69 38) rotate(60)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" letter-spacing="0em"><tspan x="0" y="65.1">&#x1f512;</tspan></text>
+<text transform="translate(308.724 249) rotate(15)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" letter-spacing="0em"><tspan x="0" y="65.1">&#x1f511;</tspan></text>
+<text transform="translate(203 145.351) rotate(-45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" letter-spacing="0em"><tspan x="0" y="65.1">&#x1f440;</tspan></text>
+<text transform="translate(35.9675 103) rotate(30)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="90" letter-spacing="0em"><tspan x="0" y="83.7">&#x1f64a;</tspan></text>
+<text transform="translate(116 139.49) rotate(-15)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="60" letter-spacing="0em"><tspan x="0" y="55.8">&#x1f4dc;</tspan></text>
+<path d="M144.141 61.3029L121.24 37.2974L113.456 69.5893L103.211 66.7769L112.702 34.8868L80.8124 44.3785L78 34.1335L110.292 26.3493L86.2864 3.44866L93.8195 -4.08444L116.72 19.921L124.504 -12.3708L134.749 -9.55849L125.258 22.3316L157.148 12.8399L159.96 23.0849L127.668 30.8691L151.674 53.7698L144.141 61.3029Z" fill="#5AFF7E"/>
+<text transform="translate(227.928 -31.0725) rotate(30)" fill="#5AFF7E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="80" font-weight="300" letter-spacing="0em"><tspan x="0" y="74.4">&#x1f4ac;</tspan></text>
+<path d="M273.301 95.7576L275.636 87.7988L267.672 90.1499L267 87.5803L275.091 85.649L269.05 79.9311L270.916 78.0415L276.638 84.0599L278.595 76L281.168 76.6893L278.833 84.6481L286.798 82.297L287.469 84.8666L279.379 86.7979L285.42 92.5158L283.553 94.4054L277.831 88.387L275.874 96.4469L273.301 95.7576Z" fill="#5AFF7E"/>
+<path d="M208.301 205.758L210.636 197.799L202.672 200.15L202 197.58L210.091 195.649L204.05 189.931L205.916 188.042L211.638 194.06L213.595 186L216.168 186.689L213.833 194.648L221.798 192.297L222.469 194.867L214.379 196.798L220.42 202.516L218.553 204.405L212.831 198.387L210.874 206.447L208.301 205.758Z" fill="#5AFF7E"/>
+<path d="M99.3014 114.758L101.636 106.799L93.6717 109.15L93 106.58L101.091 104.649L95.0496 98.9311L96.9162 97.0415L102.638 103.06L104.595 95L107.168 95.6893L104.833 103.648L112.798 101.297L113.469 103.867L105.379 105.798L111.42 111.516L109.553 113.405L103.831 107.387L101.874 115.447L99.3014 114.758Z" fill="#5AFF7E"/>
+<text transform="translate(-17 295.351) rotate(-45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" letter-spacing="0em"><tspan x="0" y="65.1">&#x1f640;</tspan></text>
+<text transform="translate(93 294.967) rotate(-30)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" letter-spacing="0em"><tspan x="0" y="65.1">&#x1f48c;</tspan></text>
+<path d="M228.163 342.011L234.892 319.046L211.936 325.83L210 318.415L233.321 312.842L215.908 296.343L221.288 290.891L237.78 308.257L243.422 285L250.837 286.989L244.108 309.954L267.064 303.17L269 310.585L245.679 316.158L263.092 332.657L257.712 338.109L241.22 320.743L235.578 344L228.163 342.011Z" fill="#5AFF7E"/>
+<rect x="39.25" y="383.25" width="206.5" height="32.5" rx="16.25" stroke="#FE6388" stroke-width="0.5"/>
+<line x1="85.25" y1="392" x2="85.25" y2="408" stroke="#E75A7C" stroke-width="0.5"/>
+<path d="M19.3014 248.758L21.6362 240.799L13.6717 243.15L13 240.58L21.0909 238.649L15.0496 232.931L16.9162 231.042L22.638 237.06L24.5954 229L27.168 229.689L24.8333 237.648L32.7977 235.297L33.4694 237.867L25.3785 239.798L31.4198 245.516L29.5533 247.405L23.8314 241.387L21.874 249.447L19.3014 248.758Z" fill="#5AFF7E"/>
+<path d="M360.141 205.674L337.24 181.668L329.456 213.96L319.211 211.148L328.702 179.258L296.812 188.749L294 178.504L326.292 170.72L302.286 147.82L309.82 140.286L332.72 164.292L340.504 132L350.749 134.812L341.258 166.702L373.148 157.211L375.96 167.456L343.668 175.24L367.674 198.141L360.141 205.674Z" fill="#5AFF7E"/>
+<g filter="url(#filter0_d_0_1)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="99.5918" y="241.091">WHISPER</tspan></text>
+</g>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="79.457" y="263.545">Share your vibes secretly</tspan></text>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="96.2694" y="213.46" width="173.436" height="34.9105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="360" height="800" fill="white"/>
+</clipPath>
+</defs>
+</svg>
