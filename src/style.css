@@ -192,13 +192,21 @@ html {
 	border-radius: 100px;
 	
 }
-
+.input-container {
+	position: absolute;
+    margin: 0;
+    display: flex;
+    width: max-content;
+    gap: 10px;
+    bottom: 25px;
+}
 #send-button{
 	width: 50px; /* Imposta la larghezza desiderata */
 	height: 50px; /* Imposta l'altezza desiderata */
 	border-radius: 50%; /* Imposta il bordo circolare */
-	background-color: blue;
+	background-color: rgb(125, 255, 154);
 	border: none;
+	/* margin-top: 185px; */
 }
 
 .User {
