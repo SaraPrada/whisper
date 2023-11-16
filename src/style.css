@@ -14,7 +14,7 @@ html {
 
 #container {
 	width: 360px;
-	height: 800px;
+	height: 662px;
 	background-color: rgb(255, 99, 136);
 	/* padding: 20px; */
 	display: flex;
@@ -42,7 +42,7 @@ html {
 
 #rettangolo {
 	width: 360px;
-	height: 480px;
+	height: 350px;
 	background-color: white;
 	position: absolute;
 	bottom: 0;
