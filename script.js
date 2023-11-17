@@ -24,16 +24,27 @@ document
         }),
       });
 
-      
-      
+
+
 
       const data = await response.json();
-     
+
       const extractedText = extractContentInSecondQuotes(data.text);
 
 
       // responseContainer.textContent = `${data.text}<br/>: RES: ${extractedText}`; // Modify based on how the response is structured
-      responseContainer.textContent = `${extractedText}`; // Modify based on how the response is structured
+      responseContainer.innerHTML = `<div class='mess' data-original='${userInput}' data-content='${extractedText}'>${extractedText}</div>`; // Modify based on how the response is structured
+      let messages = document.querySelectorAll('.mess');
+      messages.forEach((item) => {
+        item.addEventListener("touchstart", function (event) {
+          if(item.innerHTML == event.target.dataset.original) {
+            item.innerHTML = event.target.dataset.content;
+          }
+          else {
+            item.innerHTML = event.target.dataset.original;
+          }
+        });
+      });
       speak(data.text);
 
       chatHistory.push({
@@ -115,13 +126,13 @@ document
     function extractContentInSecondQuotes(inputString) {
       const regex = /"[^"]*"/g; // Regular expression to match all text within double quotes
       const matches = inputString.match(regex); // Using match to find all quoted text
-  
-      if (matches && matches.length >= 2) {
-          return matches[1].replace(/"/g, ''); // Extracted text within the second pair of quotes
-      } else {
-          return null; // Return null if there are not enough matches
-      }
-  }
 
-  
+      if (matches && matches.length >= 2) {
+        return matches[1].replace(/"/g, ''); // Extracted text within the second pair of quotes
+      } else {
+        return null; // Return null if there are not enough matches
+      }
+    }
+
+
   });
