@@ -23,6 +23,8 @@ document
           chat_history: chatHistory,
         }),
       });
+
+      
       
 
       const data = await response.json();

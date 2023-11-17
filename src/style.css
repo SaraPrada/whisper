@@ -242,6 +242,7 @@ margin-left: 280px;
 } */
 
 #response {
+	display: none;
 	margin-left: 180px;
 	margin-top: 160px;
 	max-width: 140px;
