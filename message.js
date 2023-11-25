@@ -12,18 +12,18 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   staticResponse1.addEventListener("click", function () {
-    if (staticResponse1.textContent === "ciao") {
-      staticResponse1.textContent = "siete usciti?";
+    if (staticResponse1.textContent === "siete usciti?") {
+      staticResponse1.textContent = "FTgsz527kajHH7";
     } else {
-      staticResponse1.textContent = "ciao";
+      staticResponse1.textContent = "siete usciti?";
     }
   });
 
   staticResponse2.addEventListener("click", function () {
-    if (staticResponse2.textContent === "ciao") {
-      staticResponse2.textContent = "voglio i gossip!";
+    if (staticResponse2.textContent === "voglio i gossip!") {
+      staticResponse2.textContent = "D4kvsf6tegah3";
     } else {
-      staticResponse2.textContent = "ciao";
+      staticResponse2.textContent = "voglio i gossip!";
     }
   });
 
