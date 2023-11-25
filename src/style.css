@@ -263,7 +263,17 @@ margin-left: 280px;
 	word-wrap: break-word; /* Permette il wrap delle parole */
 }
 
-.static-response {
+#static-response1 {
+	margin-left: 20px;
+	margin-top: 28px;
+	max-width: 140px;
+	background-color:rgb(225, 255, 232);
+	/* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); Ombra leggera */
+	padding: 10px;
+	border-radius: 0px 8px 8px 8px;
+	word-wrap: break-word; /* Permette il wrap delle parole */
+}
+#static-response2 {
 	margin-left: 20px;
 	margin-top: 28px;
 	max-width: 140px;
