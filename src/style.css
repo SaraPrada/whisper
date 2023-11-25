@@ -140,6 +140,11 @@ html {
 	margin-top: 3px;
 }
 
+.colonna-orario2 {
+	padding-bottom: 0;
+	margin-bottom: 15px;
+	margin-top: -15px;
+}
 .colonna-orario {
 	padding-bottom: 0;
 	margin-bottom: 15px;
@@ -248,12 +253,23 @@ margin-left: 280px;
 #response {
 	display: none;
 	margin-left: 180px;
-	margin-top: 160px;
+	margin-top: 140px;
 	max-width: 140px;
-	background-color: white;
-	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Ombra leggera */
+	background-color:rgb(255, 233, 239);
+	/* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); Ombra leggera */
 	padding: 10px;
-	border-radius: 8px;
+	border-radius: 8px 0 8px 8px;
+	word-wrap: break-word; /* Permette il wrap delle parole */
+}
+
+#static-response {
+	margin-left: 20px;
+	margin-top: 40px;
+	max-width: 140px;
+	background-color:rgb(255, 233, 239);
+	/* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); Ombra leggera */
+	padding: 10px;
+	border-radius: 0px 8px 8px 8px;
 	word-wrap: break-word; /* Permette il wrap delle parole */
 }
 

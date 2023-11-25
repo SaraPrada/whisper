@@ -8,7 +8,7 @@ document
   .addEventListener("click", async function () {
     const userInput = document.getElementById("message-input").value;
     const responseContainer = document.getElementById("response");
-    responseContainer.textContent = `Loading...`;
+    responseContainer.textContent = `...`;
     try {
       const response = await fetch("https://api.cohere.ai/v1/chat", {
         method: "POST",
