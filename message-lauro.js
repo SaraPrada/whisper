@@ -12,20 +12,20 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   staticResponse1.addEventListener("click", function () {
-    if (staticResponse1.textContent === "ho uno scoop da dirti!!") {
-      staticResponse1.textContent = "🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀";
+    if (staticResponse1.textContent === "scoop?") {
+      staticResponse1.textContent = "serpente confuso ondeggiava osservando prudentemente ?";
     } else {
-      staticResponse1.textContent = "ho uno scoop da dirti!!";
+      staticResponse1.textContent = "scoop?";
     }
   });
 
-  staticResponse2.addEventListener("click", function () {
-    if (staticResponse2.textContent === "tu invece?") {
-      staticResponse2.textContent = "🙀🙀🙀🙀🙀🙀";
-    } else {
-      staticResponse2.textContent = "tu invece?";
-    }
-  });
+  // staticResponse2.addEventListener("click", function () {
+  //   if (staticResponse2.textContent === "tu invece?") {
+  //     staticResponse2.textContent = "🙀🙀🙀🙀🙀🙀";
+  //   } else {
+  //     staticResponse2.textContent = "tu invece?";
+  //   }
+  // });
 
 
 });
